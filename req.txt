@@ -2,4 +2,3 @@ numpy
 matplotlib
 pandas
 pysdl2
-pyinstaller
