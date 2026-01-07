@@ -1,0 +1,3 @@
+[tool.ruff]
+# Ensure Ruff searches from the project root
+src = ["."]
